@@ -30,77 +30,78 @@ urlcolor: blue
 Research Assistant and Instructor (University of Regensburg) \hfill 06/2020--now
 
 \small
-Part of the Professorship for Political Science Methodology, Institute for Political Science
+Part of the Professorship for Political Science Research Methods, Institute for Political Science at the University of Regensburg
 
 Tasks:  
-Conceptualization and realization of four courses (1x "Einführung in die soziale Netzwerkanalyse mit R" [Introduction to Social Network Analysis with R], 2x "Big Data Analysis with R", and 1x "Applied quantitative methods for European Studies and Political science", each worth 5 ECTS; Syllabus for BDAwR can be found [here] and applied quantitative methods [here])
-- encapsulates: creation of comprehensive course materials (slides, R scripts, video tutorials); teaching (via zoom); office hours (via zoom)
-- content in terms of programming: introductory R stuff (RStudio, RMarkdown, version control); data wrangling (dplyr, tidyr, tibble, lubridate, etc.); iteration (loops, purrr); basics of functional programming; data visualization (ggplot2); descriptive social network analyses and visualization (ggraph, tidygraph, igraph); basic text mining (tidytext); regression modeling (OLS, FE, difference-in-difference)
-- theoretical content: discussion of relevant papers, introduction of theoretical and methodological concepts
-- assistance with term papers
-- grading of term papers
+Conceptualization and realization of courses (evaluations available upon request)  
+- "Einführung in die soziale Netzwerkanalyse mit R" [Introduction to Social Network Analysis with R], 5 ECTS,  [syllabus](https://github.com/fellennert/for_cv/blob/main/syllabus_sna_summer2020.pdf) (in German)  
+- "Big Data Analysis with R", 5 ECTS, [syllabus](https://github.com/fellennert/for_cv/blob/main/syllabus_bdawr_winter2020.pdf) (in English)  
+- "Applied quantitative methods for European Studies and Political science", 5 ECTS, [syllabus](https://github.com/fellennert/for_cv/blob/main/syllabus_applied_methods_winter2020.pdf) (in English)  
+Assistance with data acquisition and wrangling for a Master's thesis (scraping Twitter data with `twitteR`)
 
+\normalsize 
 Graduate Research Assistant (IAS, Linköping University) \hfill 01/2020--now
 
 \small
 Part of the ["Mining for Meaning" project](URL: https://liu.se/en/research/computational-text-analysis)
 
 Tasks:  
-- Data acquisition and management (`rvest`, `tidyverse`, GitLab)  
+- Data acquisition (i.e., scraping of online fora) and management (`rvest`, `tidyverse`, GitLab)  
+- Data wrangling  
+- Assistance with paper submission (creating bibliographies with bibtex, fixing bibliographies in \LaTeX\ )  
 - Exploratory data analyses  
 - Text mining and sentiment Analyses (`quanteda`, `tidytext`, `tidymodels`, `textrecipes`)
 
+\normalsize
 Research Assistant and Instructor (University of Regensburg) \hfill 01/2019--08/2019
+
+\small
+Part of the Professorship for Political Science Research Methods, Institute for Political Science at the University of Regensburg
+
+Tasks:  
+- Teaching Assistance for the course "Computational Social Science -- Methodologie und Anwendungsfelder in der Politikwissenschaft" [Computational Social Science -- Methodology and Applications for Political Science], 5 ECTS  
+- Instructor for the course "Einführung in die soziale Netzwerkanalyse mit R" [Introduction to Social Network Analysis with R], 5 ECTS, [syllabus](https://github.com/fellennert/for_cv/blob/main/syllabus_sna_summer2019.pdf) (in German), evaluation results available upon request
+\normalsize
 
 # Education
 
-*New College, Oxford University*, B.A. Chemistry \hfill 1899
+*Linköping University*, M.Sc. Computational Social Science  \hfill 2019--2021
 
+*University of Regensburg*, B.A. Political Science \hfill 2014--2018
+
+\small
+Overall grade: 1.7 (good)  
+Thesis: "'Facing Jamaika' -- Analyzing the Twitter Behavior of German Politicians during the Exploratory Talks" (1.0 -- very good)
 
 # Publications
 
 ## Books
 
-Pearson, E.S. and John Wishart (eds.). 1943. *"Student's" Collected Papers* London: Biometrika Office.
+
 
 ## Journal Articles
 
-Student. 1938. "Comparison between Balanced and Random Arrangements on Field Plots." *Biometrika* 29(3-4): 363--378.
 
-Student. 1936. "Co-operation in Large Scale Experiments." *Supplement to Journal of the Royal Statistical Society* 3(2): 115--136.
-
-Student. 1931. "On the *z* Test." *Biometrika* 23(3-4): 407-408.
-
-Student. 1931. "The Lanarkshire Milk Experiment." *Biometrika* 23(3-4): 398--406.
-
-Student. 1929. "Statistics in Biological Research." *Nature* 124: 93
-
-Student. 1927. "Errors of Routine Analysis." *Biometrika* 19(1-2): 151--164.
-
-Student. 1926. "Mathematics and Agronomy." *Journal of the American Society of Agronomy* 18.
-
-Student. 1925. "New Tables for Testing the Significance of Observations." *Metron* 5(3): 105--108.
-
-Student. 1923. "On Testing Varieties of Cereals." *Biometrika* 15(3-4): 271--293.
-
-Student. 1921. "An Experimental Determination of the Probable Error of Dr. Spearman's Correlation Co-efficient" *Biometrika* 13(2-3): 263--282.
-
-Student. 1917. "Tables for Estimating the Probability That the Given Mean of a Unique Sample of Observations Lies between $-\infty$ and Any Given Distance of the Mean of the Population from Which the Sample Is Drawn." *Biometrika* 11(4): 414--417.
-
-Student. 1909. "The Distribution of the Means of Samples Which Are Not Drawn at Random." *Biometrika* 7(1-2): 210--214.
-
-Student. 1908. "Probable Error of a Correlation Coefficient." *Biometrika* 6(2-3): 302--310.
-
-Student. 1908. "The Probable Error of a Mean." *Biometrika* 6(1): 1--25.
-
-Student. 1907. "On the Error of Counting with a Haemacytometer." *Biometrika* 5(3): 351--360.
-
-## Other Publications
-
-Student. 1905. "The Pearson Co-efficient of Correlation." Supplement to Report of 1904, Arthur Guinness Son & Company.
-
-Student. 1904. "The Application of the 'Law of Error' to the Work of the Brewery." Report, Arthur Guinness Son & Company.
 
 # References
 
-Available upon request, though likely would include Karl Pearson and Ronald A. Fisher. Please send corrections, feedback, or details of missed publications (of which there are probably a few) to svmille@clemson.edu.
+Dr. Marc Keuschnigg, Deputy Director of the IAS at Linköping University, PI of the "Mining for Meaning" project  
+E-mail: marc.keuschnigg@liu.se  
+Telephone: +46 11 36 33 39
+
+Visiting address:  
+Dr. Marc Keuschnigg  
+Institute for Analytical Sociology  
+Linköping University  
+SE-601 74 Norrköping, Sweden
+
+Prof. Dr. Melanie Walter-Rogg, Professor of Political Science Research Methods at the University of Regensburg  
+E-mail: melanie.walter-rogg@politik.uni-regensburg.de  
+Telephone: +49 941 943-3606  
+
+Visiting address:  
+Prof. Dr. Melanie Walter-Rogg  
+Institute for Political Science  
+Unit: Political Science and Methodology
+Universitätsstr. 31  
+93040 Regensburg, Germany
